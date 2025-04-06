@@ -12,13 +12,8 @@ This Unity project uses live drone footage in a VR environment to assess the hea
 
 ---
 
-## 📁 Project Structure
-
-Assets/ ├── Scripts/ │ ├── BoundingBoxOverlay.cs # Draws bounding boxes over detected objects │ ├── VideoPlayerController.cs # Plays and syncs video with overlays │ └── VRInteraction.cs # Manages VR user input ├── Shaders/ │ └── ThermalVision.shader # Custom shader for thermal vision effect ├── Prefabs/ │ └── BoundingBox.prefab # UI element used for bounding boxes ├── Materials/ │ └── ThermalMaterial.mat # Material using the thermal shader ├── Resources/ │ └── bounding_boxes.json # JSON file with annotated detection data
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Project
 ```bash
-git clone https://github.com/yourusername/celltower-vr-inspection.git
+git clone https://github.com/ShreyaKrishnan2004/We-Hack-2025-VR.git
